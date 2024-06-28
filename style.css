@@ -1,0 +1,33 @@
+body{
+	background: black;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+	font-family: calibri;
+	color: red;
+}
+.head1{
+	background: black;
+	font-family: calibri;
+	color: red;
+}
+.head1:hover{
+	background: red;
+	color: black;
+	font-family: cursive;
+}
+.head2{
+	font-family: cursive;
+}
+p{
+	text-align: center;
+	margin: 30px 20px 10px 40px;
+	border: 5px solid red;
+	padding: 10px;
+}
+span{
+	color: red;
+}
